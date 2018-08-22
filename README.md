@@ -5,4 +5,4 @@ Why hello, earthlings. This is my first repository of the hub of Git. It will in
 * Things you will hate reading, and
 * Things you should never read out loud around your mother
 
-**ENJOY IT WHILE YOUR WORLD LASTS!
+**ENJOY IT WHILE YOUR WORLD LASTS!**
