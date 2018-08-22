@@ -14,7 +14,6 @@ Yay!!!!!
 #set variables
 world_adjective = "new"
 
-
 #print statement
 
 print "Hello {adj} world!".format(adj=world_adjective)
