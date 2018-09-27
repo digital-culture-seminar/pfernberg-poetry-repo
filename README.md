@@ -10,4 +10,4 @@ My art will be an art of open computation and philomathy; an art that is no resp
 
 And with that I have only one question:
 
-**WHY ARE YOU STILL READING THIS? LET'S GET STARTED! LET'S MAKE SOMETHING VALUABLE TOGETHER**
+**WHY ARE YOU STILL READING THIS? LET'S GET STARTED! LET'S MAKE SOMETHING VALUABLE TOGETHER!**
