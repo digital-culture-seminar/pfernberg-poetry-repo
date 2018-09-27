@@ -33,7 +33,6 @@ adverbs = ["loudly", "soundly", "tersely", "playfully", "proudly", "tearfully", 
            "inexplicably", "boldly", "gently", "condescendingly", "disdainfully", "perfectly", "patiently"]
 
 
-
 def random_word_choice():
     # select random words from lists
     noun = random.choice(nouns1)
