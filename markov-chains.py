@@ -6,6 +6,8 @@ Created on Tue Sep 11 19:00:14 2018
 @author: Phil
 """
 
+install markovify
+
 # import libraries
 import markovify
 

@@ -66,7 +66,7 @@ def tell_story(noun):
         print line.format(
                 adjective=random.choice(adjectives), 
                 noun=random.choice(nouns1),
-                noun2=random.choice(nouns2)
+                noun2=random.choice(nouns2),
                 adverb=random.choice(adverbs), 
                 verb=random.choice(verbs))
         
