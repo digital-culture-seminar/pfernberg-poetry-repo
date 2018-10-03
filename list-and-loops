@@ -48,20 +48,20 @@ print "Hush now, my darling, there is no need to {verb} your {noun}.".format(adj
 print whitespace 
 
 noun, verb, adjective, adverb = random_word_choice()
-print "I will {verb}".format(adjective=adjective, noun=noun, adverb=adverb, verb=verb)
+print "I will {verb}".format(verb=verb)
 noun, verb, adjective, adverb = random_word_choice()
-print "and {verb}".format(adjective=adjective, noun=noun, adverb=adverb, verb=verb)
+print "and {verb}".format(verb=verb)
 noun, verb, adjective, adverb = random_word_choice()
-print "and {verb}".format(adjective=adjective, noun=noun, adverb=adverb, verb=verb)
+print "and {verb}".format(verb=verb)
 noun, verb, adjective, adverb = random_word_choice()
-print "and {verb}".format(adjective=adjective, noun=noun, adverb=adverb, verb=verb)
+print "and {verb}".format(verb=verb)
 print "and save you from what you've become."
 
 print whitespace 
-print "The {noun} we said we would never {verb},".format(adjective=adjective, noun=noun, adverb=adverb, verb=verb)
-print "have been {adjective}, and we're far past the {noun}.".format(adjective=adjective, noun=noun, adverb=adverb, verb=verb)
-print "There is no denying you've had better days.".format(adjective=adjective, noun=noun, adverb=adverb, verb=verb)
-print "And that {adjective}, {adjective}, {adjective} person is exactly who you've become.".format(adjective=adjective, noun=noun, adverb=adverb, verb=verb)
+print "The {noun} we said we would never {verb},".format(noun=noun, verb=verb)
+print "have been {adjective}, and we're far past the {noun}.".format(adjective=adjective, noun=noun)
+print "There is no denying you've had better days."
+print "And that {adjective}, {adjective}, {adjective} person is exactly who you've become.".format(adjective=adjective)
 print whitespace 
 
 # shuffle the list of adjectives

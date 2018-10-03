@@ -6,13 +6,12 @@ Created on Tue Sep 11 19:00:14 2018
 @author: Phil
 """
 
-install markovify
 
 # import libraries
 import markovify
 
 # get raw text as string
-with open("../readings/mallarme-a-roll-of-the-dice.txt") as f:
+with open("TheWasteland_TSEliot.txt") as f:
     text = f.read()
     
     # build the model
