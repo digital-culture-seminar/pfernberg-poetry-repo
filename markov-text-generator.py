@@ -25,10 +25,11 @@ wasteland_model = m.NewlineText(wasteland) #text_model = markovify.Text(text)
 pound_model = m.NewlineText(pound)
 improv_model = m.NewlineText(improv)
 
+# synthesize the model
 synthesized_model = m.combine([wasteland_model, pound_model, improv_model], [1,1,1.5])
 
 # print three randomly-generated sentences of no more than 140 characters
 for i in range(6):
-    print synthesized_model.make_short_sentence(140)
-    print " "
+    print synthesized_model.make_sentence()
+   
     

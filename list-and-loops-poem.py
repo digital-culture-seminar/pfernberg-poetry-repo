@@ -15,7 +15,7 @@ random.seed()
 nouns = ["words", "lines", "breath", "somethings", "insults", "jibes", "slights", "indignities", "terms", "boundaries",\
          "script", "mile mark", "book", "letter", "line in the sand", "apocrypha", "message", "letter",\
           "correspondence", "county line", "border line"]
-verbs = ["laugh out loud", "speak", "recite", "hush", "break", "save", "waste", "take", "make", "mold", \
+verbs = ["laugh out loud", "speak", "recite", "hush", "break", "waste", "take", "make", "mold", \
          "roll on the floor laughing", "sleep", "read", "declaim", "roar", "cross"]
 adjectives = ["saucy", "intangible", "impossible", "ineffable", "playful", "stupefied", "lobotomized", \
               "sleepy", "buxom", "arrogant","stealthy", "mechanical", "dapper", "erudite", "insatiable",\
@@ -61,7 +61,14 @@ print whitespace
 print "The {noun} we said we would never {verb},".format(noun=noun, verb=verb)
 print "have been {adjective}, and we're far past the {noun}.".format(adjective=adjective, noun=noun)
 print "There is no denying you've had better days."
-print "And that {adjective}, {adjective}, {adjective} person is exactly who you've become.".format(adjective=adjective)
+print whitespace
+noun, verb, adjective, adverb = random_word_choice()
+print "And that" 
+print "{adjective}".format(adjective=adjective) 
+noun, verb, adjective, adverb = random_word_choice()
+print "{adjective}".format(adjective=adjective)
+noun, verb, adjective, adverb = random_word_choice()
+print "{adjective} person is exactly who you've become.".format(adjective=adjective)
 print whitespace 
 
 # shuffle the list of adjectives
