@@ -83,7 +83,5 @@ for adjective in adjectives:
     whitespace = " " * i
     print whitespace + adjective
 print whitespace
-
-# print the rest of the sentence
-print "but it's okay, darling, we can work this out.".format(noun=noun, verb=verb)
-print "Forgiveness is my middle name.".format(noun=noun, verb=verb)
+print "but it's okay, darling, we can work this out,"
+print "Forgiveness is my middle name."
