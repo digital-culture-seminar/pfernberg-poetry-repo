@@ -34,11 +34,11 @@ synthesized_model = m.combine([wasteland_model, pound_model, improv_model], [1,1
     
 # print randomly-generated sentences using lists
 my_list = []
-for i in range(11):
-    my_list.append(synthesized_model.make_short_sentence(50))
+for i in range(1,11):
+    my_list.append(synthesized_model.make_short_sentence(140))
 
  # get raw text as string with (w) write or (a) append option
-with open("markov-generated-poem.md", "w") as f:
+with open("markov-generated-poem-iterations.md", "a") as f:
     
 # write the text generated from the markov model
     for item in my_list:
