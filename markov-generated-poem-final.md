@@ -3,7 +3,7 @@ It’s tunes bring the world cold mornings and a Bolshevic ruble.
 Que Piange: Where my love is, there is T. S. Eliot.  
 
 Good art, in the art of poetry,  
-A woman on the Scythian coast,the youngest son was in the ring  
+A woman on the Scythian coast, the youngest son was in the care  
 of that old Boston hermit who watched over like a blockheaded grammaticaster.  
 
 Dew-haze blurs, to say nearly that he can find his loneliness  
