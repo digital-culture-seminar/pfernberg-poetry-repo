@@ -1,4 +1,4 @@
-_Remorse_ is a lily of the speech. Cupiscent girlhood to the sun’s last rays._ 
+_Remorse_ is a lily of the speech. Cupiscent girlhood to the sun’s last rays.__
 It’s tunes bring the world cold mornings and a Bolshevic ruble._
 Que Piange: Where my love is, there is T. S. Eliot._
 
