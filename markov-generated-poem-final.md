@@ -1,5 +1,5 @@
 _Remorse_ is a lily of the speech. Cupiscent girlhood to the sun’s last rays. 
-It’s tunes bring the world cold mornings and a Bolshevic ruble. 
+n\It’s tunes bring the world cold mornings and a Bolshevic ruble. 
 Que Piange: Where my love is, there is T. S. Eliot. 
 
 Good art, in the art of poetry, 
