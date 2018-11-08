@@ -6,7 +6,7 @@ If such a transition is truly inevitable, it is vital that we learn to humanize 
 
 I believe just as Yo-Yo Ma does that the job of the Artist is to go to the edge and report back; they should scour the fringes of the human psyche, survey the nuances of the boolean logic landscape and then re-center themselves within the citizenry, teaching us how to express the inexpressible and know the unknowable through words, music, dance, and visual media.
 
-My art will be an art of open computation and philomathy; an art that is no respecter of media or author, whose accessibility is only limited by the participant's lack of interest in learning. An art which begets a repository of poems perpetually in iteration, of sounds to be added to, and of fabrications to be continually riffed on.My art will be an art that has no value unless I cease to be the sole owner and producer of it.
+My art will be an art of open computation and philomathy; an art that is no respecter of media or author, whose accessibility is only limited by the participant's lack of interest in learning. An art which begets a repository of poems perpetually in iteration, of sounds to be added to, and of fabrications to be continually riffed on. My art will be an art that has no value unless I cease to be the sole owner and producer of it.
 
 And with that I have only one question:
 
